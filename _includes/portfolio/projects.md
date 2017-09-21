@@ -1,34 +1,54 @@
-# Book Your Class [![GitHub Repository]({{ site.url }}/assets/img/github.png)](https://github.com/kevineger/BYC-Web)
+# Mesoscale Brain Explorer  [![GitHub Repository]({{ site.url }}/assets/img/github.png)](https://github.com/Frikster/Mesoscale-Brain-Explorer)
 
 {:.date}
-9/15 - 5/16
+6/16 - 8/17
 
-The service is for schools and institutions to better market their classes and provide the general public with a central hub for discovering them. The service operates through two mediums: a website and mobile app. This was a group project for Capstone, I took on building the bulk of our web app and the API (for mobile consumers).
+Designed and developed a user-friendly standalone cross-platform pyqt4/pyqtgraph (Python GUI frameworks) application for automating and standardizing the analysis pipeline and visualization output required in TH Murphy's laboratory, thereby making it easier for researchers without a background in programming to conduct their analysis. Application continues to be used regularly by three researchers, one who has used it extensively for seven months and continues to use it daily.
 
-# Rally [![GitHub Repository]({{ site.url }}/assets/img/github.png)](https://github.com/kevineger/rally)
-
-{:.date}
-9/15 - 5/16
-
-Honours thesis geared towards developing a one-stop-shop for data analysis and resources for interpreting Reddit. The main deliverable for this project was developing a web app where the general public can easily access all the data and metrics they could hope for pertaining to Reddit. A user is also able to view the hierarchical clustering of subreddits dynamically - allowing easy detection of bi-partisan communities.
-
-# RallySearch [![GitHub Repository]({{ site.url }}/assets/img/github.png)](https://github.com/kevineger/rallysearch)
+# URP-ShinyApp [![GitHub Repository]({{ site.url }}/assets/img/github.png)](https://github.com/Frikster/URP-ShinyApp)
 
 {:.date}
-9/15 - 5/16
+6/15 - 9/15
 
-RallySearch is an alternative way of consuming Reddit. As Redditors all know, search functionality within the site is rather lackluster. This prototype project aims to offer an alternative to browsing Reddit by it's content in a visually pleasing and simple fashion. Top media posts on Reddit are sent through Google's [_Cloud Vision_](https://cloud.google.com/vision) and results are cached. Upon giving each image (or preview in the case of videos and gifs) labels, users can easily view similar content by selecting the desired tag(s).
+Developed an online R-Shiny application called URP-ShinyApp to make data mining and predictive modeling easier for subject matter experts in clinical research. The application makes use of the R "party" package to implement a decision tree learning algorithm known as unbiased recursive partitioning for multivariate analysis. Application continues to be used by the Vancouver General Hospital's spinal cord clinic to assess a spinal cord injury patient's eligibility for various clinical trial research settings. In particular, Prof. John Steeves, founding director of the International Collaboration on Repair Discoveries (ICORD), continues to use it extensively to produce figures and reach conclusions.
 
-# InstaVis [![GitHub Repository]({{ site.url }}/assets/img/github.png)](https://github.com/kevineger/instagram-visualizer)
-
-{:.date}
-9/15 - 5/16
-
-Instagram Visualizer is a desktop application designed for visualizing a user's Instagram networks. The software supports several node and graph based metrics and multiple visual layouts. Instagram Visualizer uses several external libraries where possible such as Cytoscape for visualizing and AngularJS. The software relies upon [Instawrapper](https://github.com/Jakedavies/instawrapper), a standalone package available on [npm](https://www.npmjs.com/~instawrapper) for interacting with the Instagram API with ease. On top of visualizing, the software can export graphML files so that further analysis may be carried out using industry-grade software such as Yed or NodeXL.
-
-# MyUniTrade
+# Circuit Solver Android App  [![GitHub Repository]({{ site.url }}/assets/img/github.png)](https://github.com/Frikster/CircuitSolverApp)
 
 {:.date}
-5/14 - 2/16
+9/16 - 12/16
 
-MyUniTrade was a student-to-student textbook exchange site which launched January 10th, 2015 at UofC. It was founded by two friends who are students at the University of Calgary pursuing business degrees, a friend/peer at UBCO and myself. My responsibilities for the site lay primarily on user interaction. I took care of the front-end. The service generated quite a large amount of traffic, peaking at over 1000 hits a day.
+As part of a team, developed an Android application (Java) that uses OpenCV to process images of drawn circuits, TensorFlow to recognize components found by OpenCV and Android NDK and NgSpice open source circuit simulator for solving the resultant circuit given particular inputs. Project includes requirements, design and test plan documentation.
+
+# Towers VR [![GitHub Repository]({{ site.url }}/assets/img/github.png)](https://github.com/Frikster/BMEG554-Towers)
+
+{:.date}
+1/16 - 5/16
+
+Developed a virtual reality (VR) environment using Unity3D and Leap Motion for a Biomedical Engineering self-directed study course (BMEG554) to explore the feasibility of using VR and Leap Motion in a clinical settings. <a href="http://icord.org/2016/05/30518/" target="_blank">Project outline</a>
+
+# Four-Russians Speedup for RNA folding (Python)
+
+{:.date}
+2/14 - 5/14
+
+Implemented (from conception to completion with a final grade of 100%) the Four-Russians Speedup for RNA folding in collaboration with two partners. The original (slower) Nussinov algorithm was also implemented and the runtimes vs RNA length for each was graphed and it was conclusively shown that the speedup was better. The main reason for its difficulty is that speeding up the original algorithm was anything but trivial conceptually and we had to analyse and test the runtime of every bit of code so that we could identify areas, however trivial, where we could use more efficient code. (e.g. memorization, using different packages and variable types, list comprehensions etc.)
+
+This was the term project for CPSC 445: Algorithms in Bioinformatics
+
+# Prolog Clue
+
+{:.date}
+3/13 - 3/13
+
+Developed a game (from scratch with a partner) to simulate a game of Clue. The program would play for a single player and keep a database of all moves other players make, store all known information, alert the player when a weapon, room or suspect is certain and provide a heuristic probability function that would suggest what the player should guess next based on what is currently known.
+
+This was one of two term projects for CPSC 312: Functional and Logic Programming
+
+# Haskell Rush Hour
+
+{:.date}
+2/13 - 2/13
+
+Developed a game (with templates given) to simulate graphically and solve a game of Rush Hour. This involves solving a combinatorial problem on a 2D matrix with an efficient algorithm
+
+This was one of two term projects for CPSC 312: Functional and Logic Programming
