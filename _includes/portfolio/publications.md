@@ -4,8 +4,8 @@
 
 # Peer-reviewed
 
--    Haupt, D., Vanni, M. P., Bolanos, F., Mitelut, C., LeDue, J. M., \& Murphy, T. H. (2017). Mesoscale brain explorer, a flexible python-based image analysis and visualization tool. Neurophotonics, 4(3), 031210. DOI: <a href="https://www.ncbi.nlm.nih.gov/pubmed/28560240" target="_blank">10.1117/1.NPh.4.3.031210</a>
--   Murphy, T. H., Boyd, J. D., Bolaños, F., Vanni, M. P., Silasi, G., \textbf{Haupt, D.}, \& LeDue, J. M. (2016). High-throughput automated home-cage mesoscopic functional imaging of mouse cortex. Nature communications, 7. DOI: <a href="https://www.nature.com/articles/ncomms11611" target="_blank">10.1038/ncomms11611</a>
+-    **Haupt, D.**, Vanni, M. P., Bolanos, F., Mitelut, C., LeDue, J. M., \& Murphy, T. H. (2017). Mesoscale brain explorer, a flexible python-based image analysis and visualization tool. Neurophotonics, 4(3), 031210. DOI: <a href="https://www.ncbi.nlm.nih.gov/pubmed/28560240" target="_blank">10.1117/1.NPh.4.3.031210</a>
+-   Murphy, T. H., Boyd, J. D., Bolaños, F., Vanni, M. P., Silasi, G., **Haupt, D.**, \& LeDue, J. M. (2016). High-throughput automated home-cage mesoscopic functional imaging of mouse cortex. Nature communications, 7. DOI: <a href="https://www.nature.com/articles/ncomms11611" target="_blank">10.1038/ncomms11611</a>
 
 # Posters   
 
