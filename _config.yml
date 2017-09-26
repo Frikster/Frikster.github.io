@@ -28,6 +28,14 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# Navigation:
+#   - title: Home
+# url: /index.html
+#   - title: About
+# url: /about.md
+#   - title: Download Resume
+# url: https://drive.google.com/file/d/0B3eRv-4znU32WmNUaTJOa3UxMzg/view?usp=sharing
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
