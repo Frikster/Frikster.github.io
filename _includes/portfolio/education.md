@@ -1,7 +1,7 @@
 # University of British Columbia
 
 {:.date}
-2014 - 2017
+January 2015 - September 2017
 
 ## MSc Neuroscience
 
@@ -28,7 +28,7 @@
 # University of British Columbia
 
 {:.date}
-2010 - 2014
+September 2010 - September 2014
 
 ## BSc in Cognitive Systems, Computational Intelligence and Design
 
