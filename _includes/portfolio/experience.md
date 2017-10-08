@@ -1,16 +1,6 @@
 # University of British Columbia
 
 {:.date}
-2015 - Present
-
-## Research Assistant
-- Designed and developed a user-friendly standalone cross-platform pyqt4/pyqtgraph (Python GUI frameworks) application for automating and standardizing the analysis pipeline and visualization output required in TH Murphy's laboratory, thereby making it easier for researchers without a background in programming to conduct their analysis. Application continues to be used regularly by three researchers, one who has used it extensively for seven months and continues to use it daily.
-- Developed Python scripts for automated neurophotonic data collection using Raspberry Pi coupled with the online data analytics tool Plotly and Bokeh for data visualization and lab reports. Provided evidence against a common assumption that the relationship between neurophotonic signal and light intensity is linear.
-- Implemented and helped optimize the upload functionality of a neurophysiology data analytics website <a href="http://www.spikesortingtest.com/" target="_blank">SpikeSortingTest</a> using the Python web framework Django.
-
-# University of British Columbia
-
-{:.date}
 2014 - Present
 
 ## Various Positions
@@ -28,6 +18,16 @@
 ### Research Assistant (2014 - 2016)
 
 - Generated quality reports through data mining and statistical analysis using R and URP-ShinyApp to be used at conferences. Statistical techniques included power analysis and rasch models.
+
+# University of British Columbia
+
+{:.date}
+2015 - 2017
+
+## Research Assistant
+- Designed and developed a user-friendly standalone cross-platform pyqt4/pyqtgraph (Python GUI frameworks) application for automating and standardizing the analysis pipeline and visualization output required in TH Murphy's laboratory, thereby making it easier for researchers without a background in programming to conduct their analysis. Application continues to be used regularly by three researchers, one who has used it extensively for seven months and continues to use it daily.
+- Developed Python scripts for automated neurophotonic data collection using Raspberry Pi coupled with the online data analytics tool Plotly and Bokeh for data visualization and lab reports. Provided evidence against a common assumption that the relationship between neurophotonic signal and light intensity is linear.
+- Implemented and helped optimize the upload functionality of a neurophysiology data analytics website <a href="http://www.spikesortingtest.com/" target="_blank">SpikeSortingTest</a> using the Python web framework Django.
 
 # University of British Columbia
 
