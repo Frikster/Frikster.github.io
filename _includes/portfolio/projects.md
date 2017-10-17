@@ -17,7 +17,12 @@ See Experience section
 {:.date}
 9/16 - 12/16
 
-As part of a team, developed an Android application (Java) that uses OpenCV to process images of drawn circuits, TensorFlow to recognize components found by OpenCV and Android NDK and NgSpice open source circuit simulator for solving the resultant circuit given particular inputs. Project includes requirements, design and test plan documentation.
+As part of a team of 6, developed an Android application (Java):
+- Uses OpenCV to process images of drawn circuits
+- Uses TensorFlow model to recognize components found by OpenCV
+- Uses Android NDK and NgSpice open source circuit simulator for solving the resultant circuit, given inputs
+- Involved in all areas of development, heavily involved in unit testing (JUnit) and UI testing (Espresso)
+- Project includes requirements, design and test plan documentation
 
 # Towers VR [![GitHub Repository]({{ site.url }}/assets/img/github.png)](https://github.com/Frikster/BMEG554-Towers)
 
