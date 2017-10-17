@@ -53,14 +53,14 @@ September 2010 - September 2014
 
 - Dean's Honour list 2011-2012
 
-# Further Professional Development
+# Professional Development
 
-## Coursera: Machine Learning, Andrew Ng (Stanford University)
+- Coursera: Machine Learning, Andrew Ng (Stanford University)
 {:.date}
 October 2017 - December 2017
 In progress
 
-## Coursera: Programming Mobile Applications for Android Handheld Systems: Parts 1+2, Adam Porter (University of Maryland)
+- Coursera: Programming Mobile Applications for Android Handheld Systems: Parts 1+2, Adam Porter (University of Maryland)
 {:.date}
 February 2015 - June 2015 
 
@@ -68,8 +68,8 @@ February 2015 - June 2015
 <a href="https://www.coursera.org/account/accomplishments/certificate/EB84N7JZXA?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BEkp3JgT4TgGZfwpYpZ7DSg%3D%3D" target="_blank">Part 2 certificate of completion</a>
 
 
-## Coursera: Computational Neuroscience, Rajesh Rao and Adrienne Fairhall (University of Washington)
+- Coursera: Computational Neuroscience, Rajesh Rao and Adrienne Fairhall (University of Washington)
 <a href="https://www.coursera.org/account/accomplishments/certificate/Y84C9DTPB8" target="_blank">Certificate of completion</a>
 
-## EdX: Chinese Language: Learn Basic Mandarin, Estella Chen (MandarinX)
+- EdX: Chinese Language: Learn Basic Mandarin, Estella Chen (MandarinX)
 <a href="https://s3.amazonaws.com/verify.edx.org/downloads/50cc819bff2c489882aa51b41998264a/Certificate.pdf?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BEkp3JgT4TgGZfwpYpZ7DSg%3D%3D" target="_blank">Certificate of completion</a>
