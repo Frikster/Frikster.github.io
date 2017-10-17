@@ -42,7 +42,7 @@ Implemented (from conception to completion with a final grade of 100%) an O(n^3 
 - <a href="https://drive.google.com/file/d/0B3eRv-4znU32bXlEQ25OMldnMlU/view?usp=sharing" target="_blank">Project Final Presentation</a>
 - <a href="https://drive.google.com/file/d/0B3eRv-4znU32Z2RjRTFQdVhMdlk/view?usp=sharing" target="_blank">Project Proposal and Outline</a>
 
-This was the term project for CPSC 445: Algorithms in Bioinformatics
+This was the term project for CPSC 445: Algorithms in Bioinformatics.
 
 # Prolog Clue
 
@@ -51,13 +51,13 @@ This was the term project for CPSC 445: Algorithms in Bioinformatics
 
 Developed a game (from scratch with a partner) to simulate a game of Clue. The program would play for a single player and keep a database of all moves other players make, store all known information, alert the player when a weapon, room or suspect is certain and provide a heuristic probability function that would suggest what the player should guess next based on what is currently known.
 
-This was one of two term projects for CPSC 312: Functional and Logic Programming
+This was one of two term projects for CPSC 312: Functional and Logic Programming.
 
 # Haskell Rush Hour
 
 {:.date}
 2/13 - 2/13
 
-Developed a game (with templates given) to simulate graphically and solve a game of Rush Hour. This involves solving a combinatorial problem on a 2D matrix with an efficient algorithm
+Developed a game (with templates given) to simulate graphically and solve a game of Rush Hour. This involves solving a combinatorial problem on a 2D matrix with an efficient algorithm.
 
-This was one of two term projects for CPSC 312: Functional and Logic Programming
+This was one of two term projects for CPSC 312: Functional and Logic Programming.
