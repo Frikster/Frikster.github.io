@@ -31,8 +31,9 @@ Developed a virtual reality (VR) environment using Unity3D and Leap Motion for a
 {:.date}
 2/14 - 5/14
 
-Implemented (from conception to completion with a final grade of 100%) the Four-Russians Speedup for RNA folding in collaboration with two partners. The original (slower) Nussinov algorithm was also implemented and the runtimes vs RNA length for each was graphed, conclusively showing the speedup. The main reason for this project's difficulty is that speeding up the original algorithm was anything but trivial from a conceptual standpoint. We had to analyse and test the runtime of every bit of code so that we could identify any areas, however trivial, where we could use more efficient code (e.g. memorization, using different packages and variable types, list comprehensions etc.).
+Implemented (from conception to completion with a final grade of 100%) <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2823755/" target="_blank">A simple, practical and complete O(n^3 / log(n))-time Algorithm for RNA folding using the Four-Russians Speedup</a> in collaboration with two partners. 
 
+- Optimization techniques employed: memorization, using different packages and variable types, list comprehensions
 - <a href="https://drive.google.com/file/d/0B3eRv-4znU32bXlEQ25OMldnMlU/view?usp=sharing" target="_blank">Project Final Presentation</a>
 - <a href="https://drive.google.com/file/d/0B3eRv-4znU32Z2RjRTFQdVhMdlk/view?usp=sharing" target="_blank">Project Proposal and Outline</a>
 
