@@ -31,14 +31,19 @@ As part of a team of 6, developed an Android application (Java):
 
 Developed a virtual reality (VR) environment using Unity3D and Leap Motion for a Biomedical Engineering self-directed study course (BMEG554) to explore the feasibility of using VR and Leap Motion in a clinical settings. <a href="http://icord.org/2016/05/30518/" target="_blank">Project outline</a>
 
-# Four-Russians Speedup for RNA folding (Python)
+# Four-Russians Speedup for RNA folding
 
 {:.date}
 2/14 - 5/14
 
-Implemented (from conception to completion with a final grade of 100%) an O(n^3 / log(n))-time Algorithm for RNA folding using the Four-Russians Speedup (<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2823755/" target="_blank">Relevant paper</a>) in collaboration with two partners. 
+Implemented an O(n^3 / log(n))-time Algorithm for RNA folding using the Four-Russians Speedup (<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2823755/" target="_blank">Relevant paper</a>) in collaboration with two partners (Python). 
 
-- Optimization techniques employed: memoization, simplified if-conditions, minimized conversions between binary vectors and decimal numbers, list comprehensions
+- Project grade: 100%
+- Optimization techniques employed: 
+    - Memoization
+    - Simplified if-conditions
+    - Minimized conversions between binary vectors and decimal numbers
+    - List comprehensions
 - <a href="https://drive.google.com/file/d/0B3eRv-4znU32bXlEQ25OMldnMlU/view?usp=sharing" target="_blank">Project Final Presentation</a>
 - <a href="https://drive.google.com/file/d/0B3eRv-4znU32Z2RjRTFQdVhMdlk/view?usp=sharing" target="_blank">Project Proposal and Outline</a>
 
