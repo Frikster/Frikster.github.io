@@ -3,14 +3,14 @@
 {:.date}
 6/16 - 8/17
 
-Designed and developed a user-friendly standalone cross-platform pyqt4/pyqtgraph (Python GUI frameworks) application for automating and standardizing the analysis pipeline and visualization output required in TH Murphy's laboratory, thereby making it easier for researchers without a background in programming to conduct their analysis. Application continues to be used regularly by three researchers, one who has used it extensively for seven months and continues to use it daily.
+See Experience section
 
 # URP-ShinyApp [![GitHub Repository]({{ site.url }}/assets/img/github.png)](https://github.com/Frikster/URP-ShinyApp)
 
 {:.date}
 6/15 - 9/15
 
-Developed an online R-Shiny application called URP-ShinyApp to make data mining and predictive modeling easier for subject matter experts in clinical research. The application makes use of the R "party" package to implement a decision tree learning algorithm known as unbiased recursive partitioning for multivariate analysis. Application continues to be used by the Vancouver General Hospital's spinal cord clinic to assess a spinal cord injury patient's eligibility for various clinical trial research settings. In particular, Prof. John Steeves, founding director of the International Collaboration on Repair Discoveries (ICORD), continues to use it extensively to produce figures and reach conclusions.
+See Experience section
 
 # Circuit Solver Android App  [![GitHub Repository]({{ site.url }}/assets/img/github.png)](https://github.com/Frikster/CircuitSolverApp)
 
@@ -35,7 +35,7 @@ Implemented (from conception to completion with a final grade of 100%) the Four-
 
 - <a href="https://drive.google.com/file/d/0B3eRv-4znU32bXlEQ25OMldnMlU/view?usp=sharing" target="_blank">Project Final Presentation</a>
 - <a href="https://drive.google.com/file/d/0B3eRv-4znU32Z2RjRTFQdVhMdlk/view?usp=sharing" target="_blank">Project Proposal and Outline</a>
- 
+
 This was the term project for CPSC 445: Algorithms in Bioinformatics
 
 # Prolog Clue
