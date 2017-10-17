@@ -35,13 +35,14 @@ September 2010 - September 2014
 
 - 81.4% cumulative average
 - Favourite Upper-level Courses:
-    - COGS 402 - Research in Cognitive Systems - 92%: The research project for this course led to the development of URP-ShinyApp and my acceptance into UBC Neuroscience
+    - COGS 402 - Research in Cognitive Systems - 92%
+        - The research project for this course led to the development of URP-ShinyApp and my acceptance into UBC Neuroscience
     - CPSC 340 - Machine Learning and Data Mining - 80%
     - CPSC 322 - Introduction to Artificial Intelligence - 93%
     - CPSC 312 - Functional and Logic Programming - 82%
     - CPEN 321 - Software Engineering - 87%
     - CPSC 445 - Algorithms in Bioinformatics - 92%
-    - CPSC 425 - Computer Vision - 78%: Completely messed up a major question on Hough transforms on the final exam
+    - CPSC 425 - Computer Vision - 78%
     - MATH 302 - Introduction to Probability - 100%
     - MATH 317 - Calculus IV - 82%
     - PHYS 301 - Electricity and Magnetism - 81%
