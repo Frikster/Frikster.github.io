@@ -29,7 +29,7 @@ As part of a team of 6, developed an Android application (Java):
 {:.date}
 1/16 - 5/16
 
-Developed a virtual reality (VR) environment using Unity3D and Leap Motion for a Biomedical Engineering self-directed study course (BMEG554) to explore the feasibility of using VR and Leap Motion in a clinical settings. <a href="http://icord.org/2016/05/30518/" target="_blank">Project outline</a>
+Developed a virtual reality (VR) environment using Unity3D (C#) and Leap Motion for researchers to investigate how people with spinal cord injury perceive and use their hands in virtual reality. Term project for a self-directed biomedical engineering course (BMEG 554). <a href="http://icord.org/2016/05/30518/" target="_blank">Project outline</a>
 
 # Four-Russians Speedup for RNA folding
 
