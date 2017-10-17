@@ -5,7 +5,7 @@
 
 ## Research Assistant, Independent Consultant
 
-- Developed an online R-Shiny application (called URP-ShinyApp) to make data mining and predictive modeling easier for subject matter experts in spinal cord clinical research 
+- Developed an online R-Shiny application (called <a href="https://github.com/Frikster/URP-ShinyApp" target="_blank">URP-ShinyApp</a>) to make data mining and predictive modeling easier for subject matter experts in spinal cord clinical research 
   - Makes use of the R "party" package to implement a decision tree learning algorithm known as unbiased recursive partitioning for multivariate analysis
   - Used by the Vancouver General Hospital’s spinal cord clinic to assess a spinal cord injury patient’s eligibility for various clinical trial research settings
   - Extensively used by Prof. John Steeves, founding director of ICORD, to produce figures and reach conclusions
@@ -24,8 +24,12 @@
 {:.date}
 2015 - 2017
 
+
+
+
+
 ## Research Assistant
-- Designed and developed a user-friendly standalone cross-platform pyqt4/pyqtgraph (Python GUI frameworks) application for automating and standardizing analyses pipelines and visualization output, thereby making it easier for researchers without a background in programming to conduct their analysis. 
+- Designed and developed a user-friendly standalone cross-platform pyqt4/pyqtgraph (Python GUI frameworks) application (called <a href="https://github.com/Frikster/Mesoscale-Brain-Explorer" target="_blank">Mesoscale Brain Explorer</a>) for automating and standardizing analyses pipelines and visualization output, thereby making it easier for researchers without a background in programming to conduct their analysis. 
   - Used by three researchers, one who has used it extensively for seven months and continues to use it daily. 
   - Main subject of master’s thesis and peer-reviewed article published in *Neurophotonics*. 
 - Developed Python scripts for automated neurophotonic data collection using Raspberry Pi coupled with the online data analytics tool Plotly and Bokeh for data visualization and lab reports. Provided evidence against a common assumption that the relationship between neurophotonic signal and light intensity is linear.
