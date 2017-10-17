@@ -39,9 +39,9 @@ September 2010 - September 2014
     - CPSC 340 - Machine Learning and Data Mining - 80%
     - CPSC 322 - Introduction to Artificial Intelligence - 93%
     - CPSC 312 - Functional and Logic Programming - 82%
-    - CPEN 312 - Software Engineering - 87%
+    - CPEN 321 - Software Engineering - 87%
     - CPSC 445 - Algorithms in Bioinformatics - 92%
-    - CPSC 425 - Computer Vision - 78%: Completely messed up a major question on Hough transforms on the final exam. Still beating myself up over it to this day.
+    - CPSC 425 - Computer Vision - 78%: Completely messed up a major question on Hough transforms on the final exam
     - MATH 302 - Introduction to Probability - 100%
     - MATH 317 - Calculus IV - 82%
     - PHYS 301 - Electricity and Magnetism - 81%
@@ -52,3 +52,24 @@ September 2010 - September 2014
 ### Awards
 
 - Dean's Honour list 2011-2012
+
+# Further Professional Development
+
+## Coursera: Machine Learning, Andrew Ng (Stanford University)
+{:.date}
+October 2017 - December 2017
+In progress
+
+## Coursera: Programming Mobile Applications for Android Handheld Systems: Parts 1+2, Adam Porter (University of Maryland)
+{:.date}
+February 2015 - June 2015 
+
+<a href="https://www.coursera.org/account/accomplishments/certificate/DUSG3MDKNW?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BEkp3JgT4TgGZfwpYpZ7DSg%3D%3D" target="_blank">Part 1 certificate of completion</a>
+<a href="https://www.coursera.org/account/accomplishments/certificate/EB84N7JZXA?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BEkp3JgT4TgGZfwpYpZ7DSg%3D%3D" target="_blank">Part 2 certificate of completion</a>
+
+
+## Coursera: Computational Neuroscience, Rajesh Rao and Adrienne Fairhall (University of Washington)
+<a href="https://www.coursera.org/account/accomplishments/certificate/Y84C9DTPB8" target="_blank">Certificate of completion</a>
+
+## EdX: Chinese Language: Learn Basic Mandarin, Estella Chen (MandarinX)
+<a href="https://s3.amazonaws.com/verify.edx.org/downloads/50cc819bff2c489882aa51b41998264a/Certificate.pdf?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BEkp3JgT4TgGZfwpYpZ7DSg%3D%3D" target="_blank">Certificate of completion</a>
