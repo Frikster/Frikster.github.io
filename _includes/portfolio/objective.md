@@ -3,6 +3,7 @@ I have three years of experience building apps for subject matter experts in neu
   - Interactive data visualizations
   - Predictive modeling
   - Automating and optimizing data processing pipelines
+
 I am a software engineer sensitive to data science considerations and would like to continue to build and innovate, except for subject matter experts in industry.
 
 <br />  
