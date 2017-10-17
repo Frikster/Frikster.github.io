@@ -6,6 +6,7 @@ January 2015 - September 2017
 ## MSc Neuroscience
 
 - 86.2% cumulative average
+    - CPEN 321 - Software Engineering - 87%
 - Founding member and President of <a href="http://eaubc.org" target="_blank">UBC Effective Altruism</a>
     - Drafted the club's first constitution, 
     - Established a financial plan and continue to oversee its development
@@ -33,6 +34,18 @@ September 2010 - September 2014
 ## BSc in Cognitive Systems, Computational Intelligence and Design
 
 - 81.4% cumulative average
+- Favourite Upper-level Courses:
+    - COGS 402 - Research in Cognitive Systems - 92%: The research project for this course led to the development of URP-ShinyApp and my acceptance into UBC Neuroscience
+    - CPSC 340 - Machine Learning and Data Mining - 80%
+    - CPSC 322 - Introduction to Artificial Intelligence - 93%
+    - CPSC 312 - Functional and Logic Programming - 82%
+    - CPEN 312 - Software Engineering - 87%
+    - CPSC 445 - Algorithms in Bioinformatics - 92%
+    - CPSC 425 - Computer Vision - 78%: Completely messed up a major question on Hough transforms on the final exam. Still beating myself up over it to this day.
+    - MATH 302 - Introduction to Probability - 100%
+    - MATH 317 - Calculus IV - 82%
+    - PHYS 301 - Electricity and Magnetism - 81%
+    - PHIL 320A - Logic: Metatheory and Computability - 88%
 - Triathlon Club, Neurology Club, Physics Society, Math Club, Mafia Club and Player's Club (theater) 
 
 

@@ -31,8 +31,11 @@ Developed a virtual reality (VR) environment using Unity3D and Leap Motion for a
 {:.date}
 2/14 - 5/14
 
-Implemented (from conception to completion with a final grade of 100%) the Four-Russians Speedup for RNA folding in collaboration with two partners. The original (slower) Nussinov algorithm was also implemented and the runtimes vs RNA length for each was graphed and it was conclusively shown that the speedup was better. The main reason for its difficulty is that speeding up the original algorithm was anything but trivial conceptually and we had to analyse and test the runtime of every bit of code so that we could identify areas, however trivial, where we could use more efficient code. (e.g. memorization, using different packages and variable types, list comprehensions etc.)
+Implemented (from conception to completion with a final grade of 100%) the Four-Russians Speedup for RNA folding in collaboration with two partners. The original (slower) Nussinov algorithm was also implemented and the runtimes vs RNA length for each was graphed, conclusively showing the speedup. The main reason for this project's difficulty is that speeding up the original algorithm was anything but trivial from a conceptual standpoint. We had to analyse and test the runtime of every bit of code so that we could identify any areas, however trivial, where we could use more efficient code (e.g. memorization, using different packages and variable types, list comprehensions etc.).
 
+- <a href="https://drive.google.com/file/d/0B3eRv-4znU32bXlEQ25OMldnMlU/view?usp=sharing" target="_blank">Project Final Presentation</a>
+- <a href="https://drive.google.com/file/d/0B3eRv-4znU32Z2RjRTFQdVhMdlk/view?usp=sharing" target="_blank">Project Proposal and Outline</a>
+ 
 This was the term project for CPSC 445: Algorithms in Bioinformatics
 
 # Prolog Clue
